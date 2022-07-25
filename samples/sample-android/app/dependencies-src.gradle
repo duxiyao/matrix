@@ -46,4 +46,5 @@ dependencies {
             type = 'exe'
         }
     }
+    compileOnly 'com.tencent:mmkv-static:1.2.7'
 }
